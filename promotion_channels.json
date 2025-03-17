@@ -1,0 +1,72 @@
+{
+    "subreddits": [
+        "automation",
+        "MarketingAutomation",
+        "Youtube_Automation",
+        "homeautomation",
+        "automationgame",
+        "IndustrialAutomation",
+        "WorkflowAutomation",
+        "homeassistant",
+        "shortcuts",
+        "BuildingAutomation",
+        "PersonalAutomation",
+        "Automate",
+        "Futurology",
+        "HomeKitAutomation",
+        "smarthome",
+        "HomeKit",
+        "YangForPresidentHQ",
+        "RoboticsAndAutomation",
+        "testautomation",
+        "QualityAssurance"
+    ],
+    "reddit_communities": [
+        "automationcommunity",
+        "automationdiscussions",
+        "automationhub"
+    ],
+    "github_topics": [
+        "bruno",
+        "InstaPy",
+        "Jobs_Applier_AI_Agent_AIHawk",
+        "semantic-release",
+        "gpt-researcher",
+        "playwright",
+        "n8n",
+        "watchtower",
+        "vagrant",
+        "puppeteer",
+        "Tasmota",
+        "prefect",
+        "appsmith",
+        "MoneyPrinterTurbo",
+        "huginn",
+        "appium",
+        "fastlane",
+        "phantomjs",
+        "airflow",
+        "taipy"
+    ],
+    "twitter_hashtags": [
+        "#automationcommunity",
+        "#automationhub",
+        "#automationlovers"
+    ],
+    "dev_communities": [
+        "dev.to/automation",
+        "automationdevelopers",
+        "community.automation.org"
+    ],
+    "youtube_channels": [],
+    "quora_topics": [
+        "automation Community",
+        "automation Discussions",
+        "Experts in automation"
+    ],
+    "medium_topics": [
+        "automation Insights",
+        "automation Community",
+        "All About automation"
+    ]
+}
